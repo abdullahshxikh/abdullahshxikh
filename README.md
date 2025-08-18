@@ -11,22 +11,27 @@ Languages: JavaScript, TypeScript, Python, HTML, CSS
 🛠️ Projects
 
 ✍️ PastePilot
+
 An invisible AI writing assistant that integrates directly into your browser. With a simple Alt + Shift + T shortcut, it instantly generates context-aware text, helping users draft, rephrase, or ideate without breaking their workflow. Designed to feel seamless, not intrusive.
 Tech: JavaScript, React.js, Chrome Extension API, OpenAI API
 
 👁️ Unveil
+
 A Chrome extension that lets users bypass restricted content previews, unlocking hidden text on web pages. Built with a focus on stealth, usability, and polished UI, Unveil provides fast, one-click access to information while maintaining a clean experience.
 Tech: JavaScript, Chrome Extension API, DOM manipulation
 
 📄 Google Forms Solver
+
 A smart extension that helps students automatically fill out restricted or “locked” Google Forms. It bypasses common limitations and enhances usability, showcasing problem-solving and technical creativity.
 Tech: JavaScript, Chrome Extension API, content scripts
 
 🐦 TabTweet
+
 A lightweight, fast Twitter/X client built as a Chrome extension. It allows users to draft and post tweets directly from a browser tab without needing to open X.com, reducing distractions and streamlining communication.
 Tech: JavaScript, HTML, CSS, Chrome Extension API
 
 📈 What I’m Working On
+
 Building AI-powered productivity extensions that integrate seamlessly into daily workflows
 
 
@@ -40,7 +45,6 @@ Developing a Physics-Inspired Simulation Toolkit — using computational algorit
 
 
 
-📫 Let’s Connect
- 🧠 GitHub
+
  📧 Email: abdullahsjnshaikh@gmail.com
 
