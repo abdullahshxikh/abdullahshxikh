@@ -40,8 +40,6 @@ Developing a Physics-Inspired Simulation Toolkit — using computational algorit
 
 
 📫 Let’s Connect
-💼 LinkedIn
  🧠 GitHub
- 📧 Email: [your email here]
-⚡ Fun Fact: I’m always building something — whether it’s a browser tool to save people time, a physics-inspired algorithm to visualize concepts, or a weekend side project just for fun.
+ 📧 Email: abdullahsjnshaikh@gmail.com
 
