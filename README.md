@@ -1,11 +1,15 @@
 👋 Hi, I'm Abdullah Shaikh
 Welcome to my GitHub! I’m a student at St. Benedict Catholic Secondary School passionate about artificial intelligence, automation, and developer tools. My focus is on building projects that combine technical depth with practical impact, from AI-powered productivity extensions to real-time automation systems.
+
 I enjoy working on projects that challenge me to learn new technologies and think critically about design, performance, and usability. My goal is to create tools that not only solve problems but also deliver polished user experiences and push the boundaries of what’s possible with AI-driven software.
 
 🧠 Skills & Tools
 Languages: JavaScript, TypeScript, Python, HTML, CSS
+ 
  Frameworks & Libraries: React.js, Next.js, Tailwind CSS, Node.js
+ 
  AI/ML: OpenAI API, prompt engineering, retrieval-augmented generation (RAG)
+
  Tools & Platforms: Firebase, Vercel, Google APIs, Stripe, Git, Chrome Extension API
 
 🛠️ Projects
