@@ -4,6 +4,7 @@ Welcome to my GitHub! I’m a student at St. Benedict Catholic Secondary School 
 I enjoy working on projects that challenge me to learn new technologies and think critically about design, performance, and usability. My goal is to create tools that not only solve problems but also deliver polished user experiences and push the boundaries of what’s possible with AI-driven software.
 
 🧠 Skills & Tools
+
 Languages: JavaScript, TypeScript, Python, HTML, CSS
  
  Frameworks & Libraries: React.js, Next.js, Tailwind CSS, Node.js
