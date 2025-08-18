@@ -9,6 +9,7 @@ Languages: JavaScript, TypeScript, Python, HTML, CSS
  Tools & Platforms: Firebase, Vercel, Google APIs, Stripe, Git, Chrome Extension API
 
 🛠️ Projects
+
 ✍️ PastePilot
 An invisible AI writing assistant that integrates directly into your browser. With a simple Alt + Shift + T shortcut, it instantly generates context-aware text, helping users draft, rephrase, or ideate without breaking their workflow. Designed to feel seamless, not intrusive.
 Tech: JavaScript, React.js, Chrome Extension API, OpenAI API
