@@ -16,6 +16,25 @@ Languages: JavaScript, TypeScript, Python, HTML, CSS
 
 🛠️ Projects
 
+
+🔢 PrimeScape
+
+A research platform that transforms prime number sequences into graph networks and applies spectral graph theory to uncover hidden mathematical structures. PrimeScape automates the full research pipeline, from generating prime-based graphs, running parameter sweeps, computing eigenvalue spectra, and logging metrics, to producing publication-ready visualizations and markdown reports.
+
+Key features:
+
+Graph Models: Prime gaps, residue classes, and random baselines
+
+Spectral Analysis: Adjacency and Laplacian eigenvalues, entropy, spectral radius, algebraic connectivity (λ₂), spectral gap
+
+Experiment Automation: YAML configs, reproducible random seeds, master results logging
+
+Reporting: Auto-generated plots, trend analysis, and research question inference
+
+Scalability: Efficient runs up to 100K+ primes with batch processing
+
+Tech: Python, NumPy, SciPy, NetworkX, Pandas, Matplotlib
+
 ✍️ PastePilot
 
 An invisible AI writing assistant that integrates directly into your browser. With a simple Alt + Shift + T shortcut, it instantly generates context-aware text, helping users draft, rephrase, or ideate without breaking their workflow. Designed to feel seamless, not intrusive.
