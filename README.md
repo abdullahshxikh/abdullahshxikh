@@ -25,7 +25,7 @@ Firebase, Vercel, Google APIs, Stripe, Git, Chrome Extension API, Makefile autom
 ## 🛠️ Projects
 
 ### 🔢 PrimeScape
-A research platform that transforms prime number sequences into graph networks and applies spectral graph theory to uncover hidden mathematical structures. PrimeScape automates the full research pipeline — from generating prime-based graphs, running parameter sweeps, and computing eigenvalue spectra, to logging metrics and producing publication-ready visualizations and markdown reports.  
+A research platform that transforms prime number sequences into graph networks and applies spectral graph theory to uncover hidden mathematical structures. PrimeScape automates the full research pipeline from generating prime-based graphs, running parameter sweeps, and computing eigenvalue spectra, to logging metrics and producing publication-ready visualizations and markdown reports.  
 
 **Key Features**  
 - **Graph Models**: Prime gaps, residue classes, and random baselines  
