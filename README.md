@@ -1,79 +1,77 @@
-👋 Hi, I'm Abdullah Shaikh
+# 👋 Hi, I'm Abdullah Shaikh
 
 Welcome to my GitHub! I’m a student at St. Benedict Catholic Secondary School passionate about artificial intelligence, automation, and developer tools. My focus is on building projects that combine technical depth with practical impact, from AI-powered productivity extensions to real-time automation systems.
 
 I enjoy working on projects that challenge me to learn new technologies and think critically about design, performance, and usability. My goal is to create tools that not only solve problems but also deliver polished user experiences and push the boundaries of what’s possible with AI-driven software.
 
-🧠 Skills & Tools
+---
 
-Languages: JavaScript, TypeScript, Python, HTML, CSS
- 
- Frameworks & Libraries: React.js, Next.js, Tailwind CSS, Node.js
- 
- AI/ML: OpenAI API, prompt engineering, retrieval-augmented generation (RAG)
+## 🧠 Skills & Tools
 
- Tools & Platforms: Firebase, Vercel, Google APIs, Stripe, Git, Chrome Extension API
+**Languages**  
+JavaScript, TypeScript, Python, HTML, CSS  
 
-🛠️ Projects
+**Frameworks & Libraries**  
+React.js, Next.js, Tailwind CSS, Node.js, NetworkX, Pandas, NumPy, SciPy, Matplotlib  
 
+**AI/ML & Research**  
+OpenAI API, prompt engineering, retrieval-augmented generation (RAG), spectral graph theory, entropy analysis, eigenvalue computation, algorithmic experimentation  
 
-🔢 PrimeScape
+**Tools & Platforms**  
+Firebase, Vercel, Google APIs, Stripe, Git, Chrome Extension API, Makefile automation, YAML experiment configs  
 
-A research platform that transforms prime number sequences into graph networks and applies spectral graph theory to uncover hidden mathematical structures. PrimeScape automates the full research pipeline, from generating prime-based graphs, running parameter sweeps, computing eigenvalue spectra, and logging metrics, to producing publication-ready visualizations and markdown reports.
+---
 
-Key features:
+## 🛠️ Projects
 
-Graph Models: Prime gaps, residue classes, and random baselines
+### 🔢 PrimeScape
+A research platform that transforms prime number sequences into graph networks and applies spectral graph theory to uncover hidden mathematical structures. PrimeScape automates the full research pipeline — from generating prime-based graphs, running parameter sweeps, and computing eigenvalue spectra, to logging metrics and producing publication-ready visualizations and markdown reports.  
 
-Spectral Analysis: Adjacency and Laplacian eigenvalues, entropy, spectral radius, algebraic connectivity (λ₂), spectral gap
+**Key Features**  
+- **Graph Models**: Prime gaps, residue classes, and random baselines  
+- **Spectral Analysis**: Adjacency/Laplacian eigenvalues, entropy, spectral radius, algebraic connectivity (λ₂), spectral gap  
+- **Experiment Automation**: YAML configs, reproducible random seeds, master results logging  
+- **Reporting**: Auto-generated plots, trend analysis, and research question inference  
+- **Scalability**: Efficient runs up to 100K+ primes with batch processing  
 
-Experiment Automation: YAML configs, reproducible random seeds, master results logging
+**Tech**: Python, NumPy, SciPy, NetworkX, Pandas, Matplotlib  
 
-Reporting: Auto-generated plots, trend analysis, and research question inference
+---
 
-Scalability: Efficient runs up to 100K+ primes with batch processing
+### ✍️ PastePilot
+An invisible AI writing assistant that integrates directly into your browser. With a simple **Alt + Shift + T** shortcut, it instantly generates context-aware text, helping users draft, rephrase, or ideate without breaking their workflow. Designed to feel seamless, not intrusive.  
 
-Tech: Python, NumPy, SciPy, NetworkX, Pandas, Matplotlib
+**Tech**: JavaScript, React.js, Chrome Extension API, OpenAI API  
 
-✍️ PastePilot
+---
 
-An invisible AI writing assistant that integrates directly into your browser. With a simple Alt + Shift + T shortcut, it instantly generates context-aware text, helping users draft, rephrase, or ideate without breaking their workflow. Designed to feel seamless, not intrusive.
+### 👁️ Unveil
+A Chrome extension that lets users bypass restricted content previews, unlocking hidden text on web pages. Built with a focus on stealth, usability, and polished UI, Unveil provides fast, one-click access to information while maintaining a clean experience.  
 
-Tech: JavaScript, React.js, Chrome Extension API, OpenAI API
+**Tech**: JavaScript, Chrome Extension API, DOM manipulation  
 
-👁️ Unveil
+---
 
-A Chrome extension that lets users bypass restricted content previews, unlocking hidden text on web pages. Built with a focus on stealth, usability, and polished UI, Unveil provides fast, one-click access to information while maintaining a clean experience.
+### 📄 Google Forms Solver
+A smart extension that helps students automatically fill out restricted or “locked” Google Forms. It bypasses common limitations and enhances usability, showcasing problem-solving and technical creativity.  
 
-Tech: JavaScript, Chrome Extension API, DOM manipulation
+**Tech**: JavaScript, Chrome Extension API, content scripts  
 
-📄 Google Forms Solver
+---
 
-A smart extension that helps students automatically fill out restricted or “locked” Google Forms. It bypasses common limitations and enhances usability, showcasing problem-solving and technical creativity.
+### 🐦 TabTweet
+A lightweight, fast Twitter/X client built as a Chrome extension. It allows users to draft and post tweets directly from a browser tab without needing to open X.com, reducing distractions and streamlining communication.  
 
-Tech: JavaScript, Chrome Extension API, content scripts
+**Tech**: JavaScript, HTML, CSS, Chrome Extension API  
 
-🐦 TabTweet
+---
 
-A lightweight, fast Twitter/X client built as a Chrome extension. It allows users to draft and post tweets directly from a browser tab without needing to open X.com, reducing distractions and streamlining communication.
+## 📈 What I’m Working On
+- Building AI-powered productivity extensions that integrate seamlessly into daily workflows  
+- Exploring how automation + UX design can reduce friction in online learning and communication  
+- Expanding into backend integrations (APIs, authentication, server automation)  
+- Developing a **Physics-Inspired Simulation Toolkit** to make real-world physics (motion, orbits, waves) more accessible through interactive modeling  
 
-Tech: JavaScript, HTML, CSS, Chrome Extension API
+---
 
-📈 What I’m Working On
-
-Building AI-powered productivity extensions that integrate seamlessly into daily workflows
-
-
-Exploring how automation + UX design can reduce friction in online learning and communication
-
-
-Expanding into backend integrations (APIs, authentication, server automation)
-
-
-Developing a Physics-Inspired Simulation Toolkit — using computational algorithms to model real-world physics (motion, orbits, waves) and make abstract concepts more accessible through interactive modeling
-
-
-
-
- 📧 Email: abdullahsjnshaikh@gmail.com
-
+📧 **Email**: abdullahsjnshaikh@gmail.com  
