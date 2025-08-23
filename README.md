@@ -38,12 +38,7 @@ A research platform that transforms prime number sequences into graph networks a
 ### ✍️ PastePilot
 An invisible AI writing assistant that integrates directly into your browser. With a simple Alt + Shift + T shortcut, it instantly generates context-aware text, helping users draft, rephrase, or ideate without breaking their workflow. Designed to feel seamless, not intrusive.  
 
-<a href="https://chromewebstore.google.com/detail/pastepilot/hlogjjmciijbhokkbkdfnicbggmikggg" target="_blank">
-  <img src="https://img.shields.io/badge/Install-Chrome%20Extension-blue?style=for-the-badge" />
-</a>
-<a href="https://pastepilot.xyz" target="_blank">
-  <img src="https://img.shields.io/badge/Visit-Site-green?style=for-the-badge" />
-</a>  
+[Install](https://chromewebstore.google.com/detail/pastepilot/hlogjjmciijbhokkbkdfnicbggmikggg) | [Visit Site](https://pastepilot.xyz)  
 
 **Tech**: JavaScript, React.js, Chrome Extension API, OpenAI API  
 
