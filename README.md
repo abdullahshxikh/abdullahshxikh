@@ -2,13 +2,23 @@
 
 I’m a student at St. Benedict Catholic Secondary School passionate about artificial intelligence, automation, and developer tools. I build projects that combine technical depth with practical impact, from AI-powered extensions to research-grade math and systems software.
 
+
 ## 🧠 Skills & Tools
 
-**Languages:** JavaScript, TypeScript, Python, Julia, C++20  
-**Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, Node.js, D3.js, Three.js, NumPy, SciPy, Pandas, Matplotlib, NetworkX, pybind11, GoogleTest, Google Benchmark  
-**AI/Math/Research:** Spectral graph theory, lattice reduction (LLL, BKZ), Diophantine approximation, entropy analysis, eigenvalue computation, RAG, algorithmic experimentation  
-**Systems & Performance:** Low-latency systems, lock-free data structures, concurrency (SPSC/MPSC queues), SIMD, deterministic replay, memory pools  
-**Tools & Platforms:** Git, Docker, CMake, Conan/vcpkg, GitHub Actions, clang-tidy, AddressSanitizer/UBSan, PyJulia, Documenter.jl, Chrome Extension API  
+### Languages
+JavaScript, TypeScript, Python, Julia, C++20
+
+### Frameworks & Libraries
+React.js, Next.js, Tailwind CSS, Node.js, D3.js, Three.js, NetworkX, NumPy, SciPy, Pandas, Matplotlib, pybind11, GoogleTest, Google Benchmark
+
+### AI/ML & Research
+OpenAI API, prompt engineering, retrieval-augmented generation (RAG), spectral graph theory, entropy analysis, eigenvalue computation, lattice reduction (LLL, BKZ), Diophantine approximation, algorithmic experimentation
+
+### Systems & Performance
+Low-latency systems design, lock-free data structures, concurrency (SPSC/MPSC queues, OpenMP), SIMD optimization, memory pools, deterministic replay engines
+
+### Tools & Platforms
+Git, Docker, PyJulia, Documenter.jl, GitHub Actions (CI/CD), Chrome Extension API, CMake, Conan/vcpkg, clang-tidy, AddressSanitizer/UBSan
 
 ## 🛠️ Projects
 
