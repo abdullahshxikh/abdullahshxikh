@@ -1,76 +1,89 @@
 # 👋 Hi, I'm Abdullah Shaikh
+
 Welcome to my GitHub! I’m a student at St. Benedict Catholic Secondary School passionate about artificial intelligence, automation, and developer tools. My focus is on building projects that combine technical depth with practical impact, from AI-powered productivity extensions to real-time automation systems.
 
 I enjoy working on projects that challenge me to learn new technologies and think critically about design, performance, and usability. My goal is to create tools that not only solve problems but also deliver polished user experiences and push the boundaries of what’s possible with AI-driven software.
 
----
-
 ## 🧠 Skills & Tools
-**Languages**  
-JavaScript, TypeScript, Python, HTML, CSS  
 
-**Frameworks & Libraries**  
-React.js, Next.js, Tailwind CSS, Node.js, NetworkX, Pandas, NumPy, SciPy, Matplotlib  
+### Languages
+JavaScript, TypeScript, Python, HTML, CSS, Julia
 
-**AI/ML & Research**  
-OpenAI API, prompt engineering, retrieval-augmented generation (RAG), spectral graph theory, entropy analysis, eigenvalue computation, algorithmic experimentation  
+### Frameworks & Libraries
+React.js, Next.js, Tailwind CSS, Node.js, NetworkX, Pandas, NumPy, SciPy, Matplotlib, D3.js, Three.js
 
-**Tools & Platforms**  
-Firebase, Vercel, Google APIs, Stripe, Git, Chrome Extension API, Makefile automation, YAML experiment configs  
+### AI/ML & Research
+OpenAI API, prompt engineering, retrieval-augmented generation (RAG), spectral graph theory, entropy analysis, eigenvalue computation, algorithmic experimentation, lattice reduction (LLL, BKZ), Diophantine approximation
 
----
+### Tools & Platforms
+Firebase, Vercel, Google APIs, Stripe, Git, Chrome Extension API, Makefile automation, YAML experiment configs, Docker, PyJulia, Documenter.jl, CI/CD with GitHub Actions
 
 ## 🛠️ Projects
+
 ### 🔢 PrimeScape
 A research platform that transforms prime number sequences into graph networks and applies spectral graph theory to uncover hidden mathematical structures. PrimeScape automates the full research pipeline from generating prime-based graphs, running parameter sweeps, and computing eigenvalue spectra, to logging metrics and producing publication-ready visualizations and markdown reports.
 
-**Key Features**  
+**Key Features**
 - Graph Models: Prime gaps, residue classes, and random baselines  
 - Spectral Analysis: Adjacency/Laplacian eigenvalues, entropy, spectral radius, algebraic connectivity (λ₂), spectral gap  
 - Experiment Automation: YAML configs, reproducible random seeds, master results logging  
 - Reporting: Auto-generated plots, trend analysis, and research question inference  
 - Scalability: Efficient runs up to 100K+ primes with batch processing  
 
-**Tech**: Python, NumPy, SciPy, NetworkX, Pandas, Matplotlib  
+**Tech:** Python, NumPy, SciPy, NetworkX, Pandas, Matplotlib
+
+---
+
+### 🧮 LatticeForge
+An experimental number theory toolkit built in Julia, focused on **lattice reductions** and **Diophantine equations**. LatticeForge implements classic algorithms like **LLL** with stability improvements, provides bindings for Python, and includes an interactive Next.js web demo with real-time visualizations of basis reduction.
+
+**Key Features**
+- Core Algorithms: LLL with metrics and tracing, Gram–Schmidt orthogonalization, Hermite factor and orthogonality defect  
+- Multi-language Support: Native Julia package with PyJulia bindings for Python integration  
+- REST API: HTTP.jl backend exposing lattice reduction endpoints  
+- Visualization: Next.js + D3.js visualizer that animates lattice basis reduction in 2D and displays metrics for higher dimensions  
+- Engineering: CI/CD pipelines, reproducible benchmarks, Dockerized services, Pluto.jl notebooks  
+
+**Tech:** Julia, PyJulia, Python, Next.js, React.js, Tailwind CSS, D3.js, HTTP.jl, Documenter.jl, Docker, GitHub Actions
 
 ---
 
 ### ✍️ PastePilot
-An invisible AI writing assistant that integrates directly into your browser. With a simple Alt + Shift + T shortcut, it instantly generates context-aware text, helping users draft, rephrase, or ideate without breaking their workflow. Designed to feel seamless, not intrusive.  
+An invisible AI writing assistant that integrates directly into your browser. With a simple Alt + Shift + T shortcut, it instantly generates context-aware text, helping users draft, rephrase, or ideate without breaking their workflow. Designed to feel seamless, not intrusive.
 
-[Install](https://chromewebstore.google.com/detail/pastepilot/hlogjjmciijbhokkbkdfnicbggmikggg) | [Visit Site](https://pastepilot.xyz)  
+**Install | Visit Site**
 
-**Tech**: JavaScript, React.js, Chrome Extension API, OpenAI API  
+**Tech:** JavaScript, React.js, Chrome Extension API, OpenAI API
 
 ---
 
 ### 👁️ Unveil
-A Chrome extension that lets users bypass restricted content previews, unlocking hidden text on web pages. Built with a focus on stealth, usability, and polished UI, Unveil provides fast, one-click access to information while maintaining a clean experience.  
+A Chrome extension that lets users bypass restricted content previews, unlocking hidden text on web pages. Built with a focus on stealth, usability, and polished UI, Unveil provides fast, one-click access to information while maintaining a clean experience.
 
-**Tech**: JavaScript, Chrome Extension API, DOM manipulation  
+**Tech:** JavaScript, Chrome Extension API, DOM manipulation
 
 ---
 
 ### 📄 Google Forms Solver
-A smart extension that helps students automatically fill out restricted or “locked” Google Forms. It bypasses common limitations and enhances usability, showcasing problem-solving and technical creativity.  
+A smart extension that helps students automatically fill out restricted or “locked” Google Forms. It bypasses common limitations and enhances usability, showcasing problem-solving and technical creativity.
 
-**Tech**: JavaScript, Chrome Extension API, content scripts  
+**Tech:** JavaScript, Chrome Extension API, content scripts
 
 ---
 
 ### 🐦 TabTweet
-A lightweight, fast Twitter/X client built as a Chrome extension. It allows users to draft and post tweets directly from a browser tab without needing to open X.com, reducing distractions and streamlining communication.  
+A lightweight, fast Twitter/X client built as a Chrome extension. It allows users to draft and post tweets directly from a browser tab without needing to open X.com, reducing distractions and streamlining communication.
 
-**Tech**: JavaScript, HTML, CSS, Chrome Extension API  
+**Tech:** JavaScript, HTML, CSS, Chrome Extension API
 
 ---
 
 ## 📈 What I’m Working On
-- **PrimeScape**: Graph-theoretic research on prime numbers with spectral analysis and entropy metrics  
-- **HyperSim**: Large-scale mathematical simulation framework for exploring chaotic systems and nonlinear dynamics  
-- **CryptoSpectra**: Algebraic geometry meets cryptography, using spectral methods to analyze elliptic curve distributions  
-- **LatticeForge**: Experimental number theory toolkit built in Julia, focused on lattice reductions and Diophantine equations  
+- PrimeScape: Graph-theoretic research on prime numbers with spectral analysis and entropy metrics  
+- HyperSim: Large-scale mathematical simulation framework for exploring chaotic systems and nonlinear dynamics  
+- CryptoSpectra: Algebraic geometry meets cryptography, using spectral methods to analyze elliptic curve distributions  
+- LatticeForge: Experimental number theory toolkit built in Julia, focused on lattice reductions and Diophantine equations  
 
 ---
 
-📧 **Email**: abdullahsjnshaikh@gmail.com  
+📧 **Email:** abdullahsjnshaikh@gmail.com
