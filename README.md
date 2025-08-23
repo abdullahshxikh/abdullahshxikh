@@ -7,18 +7,36 @@ I enjoy working on projects that challenge me to learn new technologies and thin
 ## 🧠 Skills & Tools
 
 ### Languages
-JavaScript, TypeScript, Python, Julia
+JavaScript, TypeScript, Python, Julia, C++20
 
 ### Frameworks & Libraries
-React.js, Next.js, Tailwind CSS, Node.js, D3.js, Three.js, NetworkX, NumPy, SciPy, Pandas, Matplotlib
+React.js, Next.js, Tailwind CSS, Node.js, D3.js, Three.js, NetworkX, NumPy, SciPy, Pandas, Matplotlib, pybind11, GoogleTest, Google Benchmark
 
 ### AI/ML & Research
 OpenAI API, prompt engineering, retrieval-augmented generation (RAG), spectral graph theory, entropy analysis, eigenvalue computation, lattice reduction (LLL, BKZ), Diophantine approximation, algorithmic experimentation
 
+### Systems & Performance
+Low-latency systems design, lock-free data structures, concurrency (SPSC/MPSC queues, OpenMP), SIMD optimization, memory pools, deterministic replay engines
+
 ### Tools & Platforms
-Git, Docker, PyJulia, Documenter.jl, GitHub Actions (CI/CD), Chrome Extension API
+Git, Docker, PyJulia, Documenter.jl, GitHub Actions (CI/CD), Chrome Extension API, CMake, Conan/vcpkg, clang-tidy, AddressSanitizer/UBSan
 
 ## 🛠️ Projects
+
+### ⚡ NanoMatch
+A high-performance **limit order book and matching engine** written in C++20, designed to mimic exchange-grade systems with nanosecond-level accuracy. NanoMatch implements deterministic replay, lock-free queues, and latency benchmarking, making it both a research tool and a demonstration of low-latency systems programming.
+
+**Key Features**
+- Matching Engine: Price-time priority, partial fills, cancel/replace logic, market orders  
+- Replay: Deterministic log replay for reproducible backtests  
+- Performance: Lock-free SPSC ring buffers, rdtsc timers, cache-friendly data structures, AVX2 optimizations  
+- Benchmarks: p50/p99 latency histograms, throughput analysis with Google Benchmark  
+- Python Bindings: pybind11 integration for Jupyter/strategy research  
+- CI/CD: GitHub Actions, sanitizers, and clang-tidy integrated into workflow  
+
+**Tech:** C++20, CMake, Conan/vcpkg, GoogleTest, Google Benchmark, pybind11, spdlog, fmt, Docker, GitHub Actions
+
+---
 
 ### 🔢 PrimeScape
 A research platform that transforms prime number sequences into graph networks and applies spectral graph theory to uncover hidden mathematical structures. PrimeScape automates the full research pipeline from generating prime-based graphs, running parameter sweeps, and computing eigenvalue spectra, to logging metrics and producing publication-ready visualizations and markdown reports.
@@ -35,7 +53,7 @@ A research platform that transforms prime number sequences into graph networks a
 ---
 
 ### 🧮 LatticeForge
-An experimental number theory toolkit built in Julia, focused on **lattice reductions** and **Diophantine equations**. LatticeForge implements classic algorithms like **LLL** with stability improvements, provides bindings for Python, and includes an interactive Next.js web demo with real-time visualizations of basis reduction.
+An experimental number theory toolkit built in Julia, focused on lattice reductions and Diophantine equations. LatticeForge implements classic algorithms like LLL with stability improvements, provides bindings for Python, and includes an interactive Next.js web demo with real-time visualizations of basis reduction.
 
 **Key Features**
 - Core Algorithms: LLL with metrics and tracing, Gram–Schmidt orthogonalization, Hermite factor and orthogonality defect  
@@ -79,6 +97,7 @@ A lightweight, fast Twitter/X client built as a Chrome extension. It allows user
 ---
 
 ## 📈 What I’m Working On
+- NanoMatch: C++20 low-latency matching engine with deterministic replay and benchmarks  
 - PrimeScape: Graph-theoretic research on prime numbers with spectral analysis and entropy metrics  
 - HyperSim: Large-scale mathematical simulation framework for exploring chaotic systems and nonlinear dynamics  
 - CryptoSpectra: Algebraic geometry meets cryptography, using spectral methods to analyze elliptic curve distributions  
