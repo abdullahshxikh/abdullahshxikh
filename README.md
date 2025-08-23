@@ -7,16 +7,16 @@ I enjoy working on projects that challenge me to learn new technologies and thin
 ## 🧠 Skills & Tools
 
 ### Languages
-JavaScript, TypeScript, Python, HTML, CSS, Julia
+JavaScript, TypeScript, Python, Julia
 
 ### Frameworks & Libraries
-React.js, Next.js, Tailwind CSS, Node.js, NetworkX, Pandas, NumPy, SciPy, Matplotlib, D3.js, Three.js
+React.js, Next.js, Tailwind CSS, Node.js, D3.js, Three.js, NetworkX, NumPy, SciPy, Pandas, Matplotlib
 
 ### AI/ML & Research
-OpenAI API, prompt engineering, retrieval-augmented generation (RAG), spectral graph theory, entropy analysis, eigenvalue computation, algorithmic experimentation, lattice reduction (LLL, BKZ), Diophantine approximation
+OpenAI API, prompt engineering, retrieval-augmented generation (RAG), spectral graph theory, entropy analysis, eigenvalue computation, lattice reduction (LLL, BKZ), Diophantine approximation, algorithmic experimentation
 
 ### Tools & Platforms
-Firebase, Vercel, Google APIs, Stripe, Git, Chrome Extension API, Makefile automation, YAML experiment configs, Docker, PyJulia, Documenter.jl, CI/CD with GitHub Actions
+Git, Docker, PyJulia, Documenter.jl, GitHub Actions (CI/CD), Chrome Extension API
 
 ## 🛠️ Projects
 
