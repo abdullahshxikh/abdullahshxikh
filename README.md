@@ -1,107 +1,65 @@
 # 👋 Hi, I'm Abdullah Shaikh
 
-Welcome to my GitHub! I’m a student at St. Benedict Catholic Secondary School passionate about artificial intelligence, automation, and developer tools. My focus is on building projects that combine technical depth with practical impact, from AI-powered productivity extensions to real-time automation systems.
-
-I enjoy working on projects that challenge me to learn new technologies and think critically about design, performance, and usability. My goal is to create tools that not only solve problems but also deliver polished user experiences and push the boundaries of what’s possible with AI-driven software.
+I’m a student at St. Benedict Catholic Secondary School passionate about artificial intelligence, automation, and developer tools. I build projects that combine technical depth with practical impact, from AI-powered extensions to research-grade math and systems software.
 
 ## 🧠 Skills & Tools
 
-### Languages
-JavaScript, TypeScript, Python, Julia, C++20
-
-### Frameworks & Libraries
-React.js, Next.js, Tailwind CSS, Node.js, D3.js, Three.js, NetworkX, NumPy, SciPy, Pandas, Matplotlib, pybind11, GoogleTest, Google Benchmark
-
-### AI/ML & Research
-OpenAI API, prompt engineering, retrieval-augmented generation (RAG), spectral graph theory, entropy analysis, eigenvalue computation, lattice reduction (LLL, BKZ), Diophantine approximation, algorithmic experimentation
-
-### Systems & Performance
-Low-latency systems design, lock-free data structures, concurrency (SPSC/MPSC queues, OpenMP), SIMD optimization, memory pools, deterministic replay engines
-
-### Tools & Platforms
-Git, Docker, PyJulia, Documenter.jl, GitHub Actions (CI/CD), Chrome Extension API, CMake, Conan/vcpkg, clang-tidy, AddressSanitizer/UBSan
+**Languages:** JavaScript, TypeScript, Python, Julia, C++20  
+**Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, Node.js, D3.js, Three.js, NumPy, SciPy, Pandas, Matplotlib, NetworkX, pybind11, GoogleTest, Google Benchmark  
+**AI/Math/Research:** Spectral graph theory, lattice reduction (LLL, BKZ), Diophantine approximation, entropy analysis, eigenvalue computation, RAG, algorithmic experimentation  
+**Systems & Performance:** Low-latency systems, lock-free data structures, concurrency (SPSC/MPSC queues), SIMD, deterministic replay, memory pools  
+**Tools & Platforms:** Git, Docker, CMake, Conan/vcpkg, GitHub Actions, clang-tidy, AddressSanitizer/UBSan, PyJulia, Documenter.jl, Chrome Extension API  
 
 ## 🛠️ Projects
 
 ### ⚡ NanoMatch
-A high-performance **limit order book and matching engine** written in C++20, designed to mimic exchange-grade systems with nanosecond-level accuracy. NanoMatch implements deterministic replay, lock-free queues, and latency benchmarking, making it both a research tool and a demonstration of low-latency systems programming.
-
-**Key Features**
-- Matching Engine: Price-time priority, partial fills, cancel/replace logic, market orders  
-- Replay: Deterministic log replay for reproducible backtests  
-- Performance: Lock-free SPSC ring buffers, rdtsc timers, cache-friendly data structures, AVX2 optimizations  
-- Benchmarks: p50/p99 latency histograms, throughput analysis with Google Benchmark  
-- Python Bindings: pybind11 integration for Jupyter/strategy research  
-- CI/CD: GitHub Actions, sanitizers, and clang-tidy integrated into workflow  
-
-**Tech:** C++20, CMake, Conan/vcpkg, GoogleTest, Google Benchmark, pybind11, spdlog, fmt, Docker, GitHub Actions
+C++20 low-latency **limit order book and matching engine** with deterministic replay, p99 latency benchmarks, and Python bindings for research.  
+**Tech:** C++20, CMake, pybind11, GoogleTest, Google Benchmark, spdlog, Docker, GitHub Actions
 
 ---
 
 ### 🔢 PrimeScape
-A research platform that transforms prime number sequences into graph networks and applies spectral graph theory to uncover hidden mathematical structures. PrimeScape automates the full research pipeline from generating prime-based graphs, running parameter sweeps, and computing eigenvalue spectra, to logging metrics and producing publication-ready visualizations and markdown reports.
-
-**Key Features**
-- Graph Models: Prime gaps, residue classes, and random baselines  
-- Spectral Analysis: Adjacency/Laplacian eigenvalues, entropy, spectral radius, algebraic connectivity (λ₂), spectral gap  
-- Experiment Automation: YAML configs, reproducible random seeds, master results logging  
-- Reporting: Auto-generated plots, trend analysis, and research question inference  
-- Scalability: Efficient runs up to 100K+ primes with batch processing  
-
+Research pipeline that converts **prime numbers into graphs** and applies spectral graph theory to uncover hidden structures. Automates experiments, metrics, and visualizations.  
 **Tech:** Python, NumPy, SciPy, NetworkX, Pandas, Matplotlib
 
 ---
 
 ### 🧮 LatticeForge
-An experimental number theory toolkit built in Julia, focused on lattice reductions and Diophantine equations. LatticeForge implements classic algorithms like LLL with stability improvements, provides bindings for Python, and includes an interactive Next.js web demo with real-time visualizations of basis reduction.
-
-**Key Features**
-- Core Algorithms: LLL with metrics and tracing, Gram–Schmidt orthogonalization, Hermite factor and orthogonality defect  
-- Multi-language Support: Native Julia package with PyJulia bindings for Python integration  
-- REST API: HTTP.jl backend exposing lattice reduction endpoints  
-- Visualization: Next.js + D3.js visualizer that animates lattice basis reduction in 2D and displays metrics for higher dimensions  
-- Engineering: CI/CD pipelines, reproducible benchmarks, Dockerized services, Pluto.jl notebooks  
-
-**Tech:** Julia, PyJulia, Python, Next.js, React.js, Tailwind CSS, D3.js, HTTP.jl, Documenter.jl, Docker, GitHub Actions
+Julia toolkit for **lattice reductions and Diophantine equations** with visualizations, Python bindings, and reproducible benchmarks.  
+**Tech:** Julia, PyJulia, Next.js, D3.js, HTTP.jl, Docker, GitHub Actions
 
 ---
 
 ### ✍️ PastePilot
-An invisible AI writing assistant that integrates directly into your browser. With a simple Alt + Shift + T shortcut, it instantly generates context-aware text, helping users draft, rephrase, or ideate without breaking their workflow. Designed to feel seamless, not intrusive.
-
-**Install | Visit Site**
-
+Invisible AI writing assistant that integrates into the browser for fast drafting and rephrasing.  
 **Tech:** JavaScript, React.js, Chrome Extension API, OpenAI API
 
 ---
 
 ### 👁️ Unveil
-A Chrome extension that lets users bypass restricted content previews, unlocking hidden text on web pages. Built with a focus on stealth, usability, and polished UI, Unveil provides fast, one-click access to information while maintaining a clean experience.
-
+Chrome extension that unlocks restricted content previews with one click, focusing on stealth and usability.  
 **Tech:** JavaScript, Chrome Extension API, DOM manipulation
 
 ---
 
 ### 📄 Google Forms Solver
-A smart extension that helps students automatically fill out restricted or “locked” Google Forms. It bypasses common limitations and enhances usability, showcasing problem-solving and technical creativity.
-
+Smart extension that bypasses restrictions on “locked” Google Forms to improve usability.  
 **Tech:** JavaScript, Chrome Extension API, content scripts
 
 ---
 
 ### 🐦 TabTweet
-A lightweight, fast Twitter/X client built as a Chrome extension. It allows users to draft and post tweets directly from a browser tab without needing to open X.com, reducing distractions and streamlining communication.
-
+Lightweight Chrome client for drafting/posting tweets without opening X.com, reducing distractions.  
 **Tech:** JavaScript, HTML, CSS, Chrome Extension API
 
 ---
 
 ## 📈 What I’m Working On
-- NanoMatch: C++20 low-latency matching engine with deterministic replay and benchmarks  
-- PrimeScape: Graph-theoretic research on prime numbers with spectral analysis and entropy metrics  
-- HyperSim: Large-scale mathematical simulation framework for exploring chaotic systems and nonlinear dynamics  
-- CryptoSpectra: Algebraic geometry meets cryptography, using spectral methods to analyze elliptic curve distributions  
-- LatticeForge: Experimental number theory toolkit built in Julia, focused on lattice reductions and Diophantine equations  
+- **NanoMatch**: low-latency matching engine in C++20  
+- **PrimeScape**: graph-theoretic analysis of prime numbers  
+- **LatticeForge**: Julia toolkit for lattice reductions  
+- **HyperSim**: large-scale simulations of chaotic systems  
+- **CryptoSpectra**: spectral methods for cryptography  
 
 ---
 
