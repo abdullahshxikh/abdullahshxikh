@@ -26,46 +26,46 @@ Git, Docker, PyJulia, Documenter.jl, GitHub Actions (CI/CD), Chrome Extension AP
 ## 🛠️ Projects  
 
 🌊 **StreamForge**  
-Real-time OLAP engine in the browser. Upload datasets or stream data, run sub-second SQL queries with DuckDB-WASM, and visualize results instantly — no backend required.  
+Real-time OLAP engine in the browser. Upload datasets or stream data, run sub-second SQL queries with DuckDB-WASM, and visualize results instantly with no backend required.  
 
-*Tech: TypeScript, Next.js, Tailwind CSS, DuckDB-WASM, Apache Arrow, D3.js, Recharts*  
+Tech: TypeScript, Next.js, Tailwind CSS, DuckDB-WASM, Apache Arrow, D3.js, Recharts  
 
 ---
 
 🌪️ **VortexTS**  
 Rust Arrow-native time-series analytics engine with SQL, vectorized execution, Parquet storage, and Python bindings. Features windowed aggregations, predicate pushdown, HTTP + Arrow Flight APIs, and reproducible benchmarks.  
 
-*Tech: Rust, Arrow, Parquet, sqlparser-rs, Axum, Tokio, Criterion, pyo3, Docker, GitHub Actions*  
+Tech: Rust, Arrow, Parquet, sqlparser-rs, Axum, Tokio, Criterion, pyo3, Docker, GitHub Actions  
 
 ---
 
 ✍️ **PastePilot**  
-Invisible AI writing assistant that integrates into the browser for fast drafting and rephrasing. Now with **100+ active users**.  
+Invisible AI writing assistant that integrates into the browser for fast drafting and rephrasing. Now with 100+ active users.  
 
-🔗 [Download](https://pasteplit.xyz)  
+🔗 [Download](https://pastepilot.xyz)  
 
-*Tech: JavaScript, React.js, Chrome Extension API, OpenAI API*  
+Tech: JavaScript, React.js, Chrome Extension API, OpenAI API  
 
 ---
 
 ⚡ **NanoMatch**  
 C++20 low-latency limit order book and matching engine with deterministic replay, p99 latency benchmarks, and Python bindings for research.  
 
-*Tech: C++20, CMake, pybind11, GoogleTest, Google Benchmark, spdlog, Docker, GitHub Actions*  
+Tech: C++20, CMake, pybind11, GoogleTest, Google Benchmark, spdlog, Docker, GitHub Actions  
 
 ---
 
 🔢 **PrimeScape**  
 Research pipeline that converts prime numbers into graphs and applies spectral graph theory to uncover hidden structures. Automates experiments, metrics, and visualizations.  
 
-*Tech: Python, NumPy, SciPy, NetworkX, Pandas, Matplotlib*  
+Tech: Python, NumPy, SciPy, NetworkX, Pandas, Matplotlib  
 
 ---
 
 🧮 **LatticeForge**  
 Julia toolkit for lattice reductions and Diophantine equations with visualizations, Python bindings, and reproducible benchmarks.  
 
-*Tech: Julia, PyJulia, Next.js, D3.js, HTTP.jl, Docker, GitHub Actions*  
+Tech: Julia, PyJulia, Next.js, D3.js, HTTP.jl, Docker, GitHub Actions  
 
 ---
 
