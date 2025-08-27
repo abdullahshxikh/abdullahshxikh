@@ -47,6 +47,6 @@ Git, Docker, PyJulia, Documenter.jl, GitHub Actions (CI/CD), Chrome Extension AP
 ---
 
 ## 📬 **Contact**  
-I’m open to research collaborations, internships, or project discussions related to AI, systems programming, quant finance, or developer tools.  
+I’m open to research collaborations, internships, or project discussions related to AI, systems programming, or developer tools.  
 
 📧 abdullahsjnshaikh@gmail.com
