@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Shaikh  
 
-I’m a student at St. Benedict Catholic Secondary School passionate about artificial intelligence, automation, and developer tools. I build projects that combine technical depth with practical impact, from AI-powered systems to research-grade math and performance software.  
+I design and build **high-performance systems, developer tools, and AI applications**. My projects range from real-time analytics engines and Rust-based databases to mathematical research pipelines and AI-powered browser extensions used by 100+ people. I focus on creating software that is both technically rigorous and impactful, combining strong systems engineering with applied research.  
 
 ---
 
