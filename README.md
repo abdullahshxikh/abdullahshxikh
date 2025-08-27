@@ -25,47 +25,20 @@ Git, Docker, PyJulia, Documenter.jl, GitHub Actions (CI/CD), Chrome Extension AP
 
 ## 🛠️ Projects  
 
-🌊 **StreamForge**  
-Real-time OLAP engine in the browser. Upload datasets or stream data, run sub-second SQL queries with DuckDB-WASM, and visualize results instantly with no backend required.  
+| Project        | Description                                                                 | Tech Stack |
+|----------------|-----------------------------------------------------------------------------|------------|
 
-Tech: TypeScript, Next.js, Tailwind CSS, DuckDB-WASM, Apache Arrow, D3.js, Recharts  
+| 🌊 StreamForge | Real-time OLAP engine in the browser. Upload datasets or stream data, run sub-second SQL queries, and visualize results instantly. | TypeScript, Next.js, Tailwind, DuckDB-WASM, Apache Arrow, D3.js |
 
----
+| 🌪️ VortexTS   | Rust Arrow-native time-series analytics engine with SQL, vectorized execution, Parquet storage, and Python bindings. | Rust, Arrow, Parquet, sqlparser-rs, Axum, Tokio |
 
-🌪️ **VortexTS**  
-Rust Arrow-native time-series analytics engine with SQL, vectorized execution, Parquet storage, and Python bindings. Features windowed aggregations, predicate pushdown, HTTP + Arrow Flight APIs, and reproducible benchmarks.  
+| ✍️ [PastePilot](https://pastepilot.xyz) | Invisible AI writing assistant with **100+ users**. Integrates into the browser for fast drafting and rephrasing. | JavaScript, React.js, Chrome Extension API, OpenAI API |
 
-Tech: Rust, Arrow, Parquet, sqlparser-rs, Axum, Tokio, Criterion, pyo3, Docker, GitHub Actions  
+| ⚡ NanoMatch   | C++20 low-latency order book and matching engine with deterministic replay and p99 latency benchmarks. | C++20, CMake, pybind11, spdlog |
 
----
+| 🔢 PrimeScape  | Research pipeline converting prime numbers into graphs and applying spectral graph theory to uncover hidden structures. | Python, NumPy, SciPy, NetworkX |
 
-✍️ **PastePilot**  
-Invisible AI writing assistant that integrates into the browser for fast drafting and rephrasing. Now with 100+ active users.  
-
-🔗 [Download](https://pastepilot.xyz)  
-
-Tech: JavaScript, React.js, Chrome Extension API, OpenAI API  
-
----
-
-⚡ **NanoMatch**  
-C++20 low-latency limit order book and matching engine with deterministic replay, p99 latency benchmarks, and Python bindings for research.  
-
-Tech: C++20, CMake, pybind11, GoogleTest, Google Benchmark, spdlog, Docker, GitHub Actions  
-
----
-
-🔢 **PrimeScape**  
-Research pipeline that converts prime numbers into graphs and applies spectral graph theory to uncover hidden structures. Automates experiments, metrics, and visualizations.  
-
-Tech: Python, NumPy, SciPy, NetworkX, Pandas, Matplotlib  
-
----
-
-🧮 **LatticeForge**  
-Julia toolkit for lattice reductions and Diophantine equations with visualizations, Python bindings, and reproducible benchmarks.  
-
-Tech: Julia, PyJulia, Next.js, D3.js, HTTP.jl, Docker, GitHub Actions  
+| 🧮 LatticeForge| Julia toolkit for lattice reductions and Diophantine equations with visualizations and Python bindings. | Julia, PyJulia, Next.js, D3.js |
 
 ---
 
