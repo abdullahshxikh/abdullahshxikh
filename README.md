@@ -27,42 +27,49 @@ Git, Docker, PyJulia, Documenter.jl, GitHub Actions (CI/CD), Chrome Extension AP
 
 ### 📈 **StochLab**  
 An interactive stochastic calculus and option pricing simulator. Implements Geometric Brownian Motion (GBM), Ornstein–Uhlenbeck processes, Monte Carlo simulation, and Black–Scholes pricing in Rust compiled to WebAssembly, with a Next.js dashboard for live visualization.  
+
 *Tech:* Rust, WebAssembly, Next.js, Tailwind, Plotly.js  
 
 ---
 
 ### 🌪️ **VortexTS**  
 A Rust Arrow-native time-series analytics engine with SQL support, vectorized execution, Parquet storage, and Python bindings. Built for speed, extensibility, and integration into data science workflows.  
+
 *Tech:* Rust, Arrow, Parquet, sqlparser-rs, Axum, Tokio  
 
 ---
 
 ### 🌊 **StreamForge**  
 A real-time OLAP engine in the browser. Enables sub-second SQL queries over datasets or streaming data and integrates with D3.js for immediate visualizations.  
+
 *Tech:* TypeScript, Next.js, Tailwind, DuckDB-WASM, Apache Arrow, D3.js  
 
 ---
 
 ### ⚡ **NanoMatch**  
 A C++20 low-latency order book and matching engine with deterministic replay and latency benchmarks down to the p99 level. Designed to demonstrate systems-level optimization and trading infrastructure concepts.  
+
 *Tech:* C++20, CMake, pybind11, spdlog  
 
 ---
 
 ### 🧮 **LatticeForge**  
 A Julia toolkit for lattice reductions and Diophantine equations, featuring visualizations and Python interoperability. Supports advanced algorithms like LLL and BKZ.  
+
 *Tech:* Julia, PyJulia, Next.js, D3.js  
 
 ---
 
 ### 🔢 **PrimeScape**  
 A research pipeline that converts prime numbers into graph structures and applies spectral graph theory to study hidden number-theoretic properties.  
+
 *Tech:* Python, NumPy, SciPy, NetworkX  
 
 ---
 
 ### ✍️ [**PastePilot**](https://pastepilot.xyz)  
 An invisible AI writing assistant with 100+ users. Integrates into the browser to help with fast drafting, rewriting, and productivity.  
+
 *Tech:* JavaScript, React.js, Chrome Extension API, OpenAI API  
 
 ---
