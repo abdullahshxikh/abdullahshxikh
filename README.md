@@ -25,20 +25,14 @@ Git, Docker, PyJulia, Documenter.jl, GitHub Actions (CI/CD), Chrome Extension AP
 
 ## 🛠️ Projects  
 
-| Project        | Description                                                                 | Tech Stack |
-|----------------|-----------------------------------------------------------------------------|------------|
-
-| 🌊 StreamForge | Real-time OLAP engine in the browser. Upload datasets or stream data, run sub-second SQL queries, and visualize results instantly. | TypeScript, Next.js, Tailwind, DuckDB-WASM, Apache Arrow, D3.js |
-
-| 🌪️ VortexTS   | Rust Arrow-native time-series analytics engine with SQL, vectorized execution, Parquet storage, and Python bindings. | Rust, Arrow, Parquet, sqlparser-rs, Axum, Tokio |
-
-| ✍️ [PastePilot](https://pastepilot.xyz) | Invisible AI writing assistant with **100+ users**. Integrates into the browser for fast drafting and rephrasing. | JavaScript, React.js, Chrome Extension API, OpenAI API |
-
-| ⚡ NanoMatch   | C++20 low-latency order book and matching engine with deterministic replay and p99 latency benchmarks. | C++20, CMake, pybind11, spdlog |
-
-| 🔢 PrimeScape  | Research pipeline converting prime numbers into graphs and applying spectral graph theory to uncover hidden structures. | Python, NumPy, SciPy, NetworkX |
-
-| 🧮 LatticeForge| Julia toolkit for lattice reductions and Diophantine equations with visualizations and Python bindings. | Julia, PyJulia, Next.js, D3.js |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🌊 **StreamForge** | Real-time OLAP engine in the browser. Run sub-second SQL queries on datasets or streams and visualize results instantly. | TypeScript, Next.js, Tailwind, DuckDB-WASM, Apache Arrow, D3.js |
+| 🌪️ **VortexTS** | Rust Arrow-native time-series analytics engine with SQL, vectorized execution, Parquet storage, and Python bindings. | Rust, Arrow, Parquet, sqlparser-rs, Axum, Tokio |
+| ✍️ [**PastePilot**](https://pastepilot.xyz) | Invisible AI writing assistant with **100+ users**. Integrates into the browser for fast drafting and rephrasing. | JavaScript, React.js, Chrome Extension API, OpenAI API |
+| ⚡ **NanoMatch** | C++20 low-latency order book and matching engine with deterministic replay and p99 latency benchmarks. | C++20, CMake, pybind11, spdlog |
+| 🔢 **PrimeScape** | Research pipeline converting prime numbers into graphs and applying spectral graph theory to uncover hidden structures. | Python, NumPy, SciPy, NetworkX |
+| 🧮 **LatticeForge** | Julia toolkit for lattice reductions and Diophantine equations with visualizations and Python bindings. | Julia, PyJulia, Next.js, D3.js |
 
 ---
 
