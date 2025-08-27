@@ -45,3 +45,11 @@ Git, Docker, PyJulia, Documenter.jl, GitHub Actions (CI/CD), Chrome Extension AP
 - **AutoMLKit**: lightweight research toolkit for automated feature engineering and model benchmarking  
 
 ---
+
+---
+
+## 📬 Contact  
+
+I’m open to research collaborations, internships, or project discussions related to **AI, systems programming, or developer tools**.  
+
+📧 **abdullahsjnshaikh@gmail.com**  
