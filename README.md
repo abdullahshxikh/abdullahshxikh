@@ -1,4 +1,4 @@
-👋 Hi, I'm Abdullah Shaikh  
+# 👋 Hi, I'm Abdullah Shaikh  
 
 I design and build **high-performance systems, developer tools, and AI applications**. My work spans from real-time analytics engines and Rust-based databases to mathematical research pipelines and AI-powered browser extensions used by 100+ people. I focus on creating software that is both technically rigorous and impactful, combining strong systems engineering with applied research and mathematics.
 
